@@ -1,0 +1,36 @@
+.navbar{
+    background-color:#4298f5
+    
+}
+.header{
+    text-align: center;
+}
+.brand{
+    justify-content: left;
+}
+.options{
+    justify-content: right;
+}
+.item{
+    margin-right: 20px;
+}
+.Link{
+    color:black;
+}
+.Link:hover{
+    color:white;
+    
+}
+.homebody{
+    position:relative;
+    background-color: #bfd3f2;
+    color: black;
+    text-align: center;
+}
+.homebody:hover{
+    text-decoration: none;
+}
+input[type="radio"]{
+    margin: 0px 10px 0 80px;
+    justify-items: left;
+}
